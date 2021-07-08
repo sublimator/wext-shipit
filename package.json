@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "license": "MIT",
   "repository": "LinusU/wext-shipit",
-  "bin": "bin.js",
+  "bin": "./bin.js",
   "dependencies": {
     "chrome-webstore-upload-cli": "^1.1.1",
     "dotenv": "^8.2.0",
